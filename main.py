@@ -1,3 +1,4 @@
+from findreplacepattern import findreplacepattern
 from longestConsecutiveSequence import longestcs
 from longeststringchain import longeststringchain
 from maxproductwordlength import maxproductwordlength
@@ -10,5 +11,6 @@ if __name__ == '__main__':
     # longestcs(nums)
     # mincoststair()
     # maxproductwordlength()
-    longeststringchain()
+    # longeststringchain()
+    findreplacepattern()
 
