@@ -5,6 +5,7 @@ from longeststringchain import longeststringchain
 from maxgap import maxgap
 from maxproductwordlength import maxproductwordlength
 from mincoststair import mincoststair
+from rotateimage import rotateimage
 from validnumber import validnumber
 
 if __name__ == '__main__':
@@ -15,5 +16,6 @@ if __name__ == '__main__':
     # findreplacepattern()
     # validnumber()
     # maxgap()
-    generateparentheses()
+    # generateparentheses()
+    rotateimage()
 
