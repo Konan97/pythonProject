@@ -1,4 +1,5 @@
 from findreplacepattern import findreplacepattern
+from generateparentheses import generateparentheses
 from longestConsecutiveSequence import longestcs
 from longeststringchain import longeststringchain
 from maxgap import maxgap
@@ -13,5 +14,6 @@ if __name__ == '__main__':
     # longeststringchain()
     # findreplacepattern()
     # validnumber()
-    maxgap()
+    # maxgap()
+    generateparentheses()
 
